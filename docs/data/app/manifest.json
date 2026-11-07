@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "published": "2026-11-07T00:27:48Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-black-hills": {
+   "path": "detail-black-hills-dccc31c5c932.json",
+   "sha256": "dccc31c5c932b09f9ce687d58f13160f247e03d38795ee4ebe0697d1fd9cd3d5",
+   "bytes": 36717,
+   "rows": 552
+  },
+  "detail-central-missouri-river": {
+   "path": "detail-central-missouri-river-1864a556b5e4.json",
+   "sha256": "1864a556b5e436bb80e7215e36c64db1d079ee99ccec1f5498a2444be90df814",
+   "bytes": 7310,
+   "rows": 125
+  },
+  "detail-northeast": {
+   "path": "detail-northeast-21db501ed78a.json",
+   "sha256": "21db501ed78a10ffd195c6e3aaa5f019728ce3ca3043798b404488cb913e4e80",
+   "bytes": 24397,
+   "rows": 417
+  },
+  "detail-sioux-falls": {
+   "path": "detail-sioux-falls-a49e9c18fd5e.json",
+   "sha256": "a49e9c18fd5e814e13733b1226411c4c73726a1c1428f3fa3b91ba87948ec318",
+   "bytes": 165323,
+   "rows": 845
+  },
+  "detail-southeast": {
+   "path": "detail-southeast-b7dda93745c6.json",
+   "sha256": "b7dda93745c6054d69f22f8ed261513db4ad5199894413c801b444162d054bc9",
+   "bytes": 15110,
+   "rows": 267
+  },
+  "detail-west-river-badlands": {
+   "path": "detail-west-river-badlands-f15937bacc08.json",
+   "sha256": "f15937bacc08ad5a3fad6ae3eaeaaf5e94b21887478a4539525040e21dc80b09",
+   "bytes": 1063,
+   "rows": 21
+  },
+  "places": {
+   "path": "places-521c46b474cf.json",
+   "sha256": "521c46b474cfdbb064cef51f4463a5d5b3d5cee26476b69466da403e5402a683",
+   "bytes": 381675,
+   "rows": 2276
+  }
+ },
+ "counts": {
+  "places": 2276,
+  "files": 7,
+  "bytes": 631595,
+  "restaurants": 2132
+ }
+}

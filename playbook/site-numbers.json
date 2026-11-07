@@ -1,0 +1,326 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/south-dakota-eats",
+ "restaurants": 2132,
+ "places_incl_hidden": 2276,
+ "towns": 234,
+ "counties": 65,
+ "on_an_official_list": 544,
+ "hand_checked_on_a_guide": 21,
+ "serves_alcohol_state_license": 204,
+ "guide_chislic": 13,
+ "guide_bison": 14,
+ "oldest": 1,
+ "honors": 5,
+ "michelin": {},
+ "james_beard": 5,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-06",
+ "city_pages": {
+  "Sioux Falls": {
+   "restaurants": 617,
+   "listed": 8,
+   "chislic": 6,
+   "bison": 0,
+   "hon": 2,
+   "oldest": 0
+  },
+  "Rapid City": {
+   "restaurants": 251,
+   "listed": 14,
+   "chislic": 6,
+   "bison": 14,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Brookings": 1,
+  "Custer": 2,
+  "Aberdeen": 0,
+  "Watertown": 0,
+  "Mitchell": 0,
+  "Yankton": 0,
+  "Spearfish": 0,
+  "Pierre": 0,
+  "Deadwood": 0,
+  "Hill City": 0,
+  "Keystone": 0,
+  "Wall": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 175113,
+   "gzip": 41604
+  },
+  "data/detail-aurora-county.json": {
+   "raw": 275,
+   "gzip": 178
+  },
+  "data/detail-beadle-county.json": {
+   "raw": 1514,
+   "gzip": 524
+  },
+  "data/detail-bennett-county.json": {
+   "raw": 250,
+   "gzip": 161
+  },
+  "data/detail-bon-homme-county.json": {
+   "raw": 217,
+   "gzip": 113
+  },
+  "data/detail-brookings-county.json": {
+   "raw": 5165,
+   "gzip": 1628
+  },
+  "data/detail-brown-county.json": {
+   "raw": 4393,
+   "gzip": 1291
+  },
+  "data/detail-brule-county.json": {
+   "raw": 956,
+   "gzip": 408
+  },
+  "data/detail-buffalo-county.json": {
+   "raw": 126,
+   "gzip": 128
+  },
+  "data/detail-butte-county.json": {
+   "raw": 1079,
+   "gzip": 423
+  },
+  "data/detail-campbell-county.json": {
+   "raw": 198,
+   "gzip": 131
+  },
+  "data/detail-charles-mix-county.json": {
+   "raw": 740,
+   "gzip": 315
+  },
+  "data/detail-clark-county.json": {
+   "raw": 248,
+   "gzip": 163
+  },
+  "data/detail-clay-county.json": {
+   "raw": 1906,
+   "gzip": 643
+  },
+  "data/detail-codington-county.json": {
+   "raw": 3941,
+   "gzip": 1177
+  },
+  "data/detail-corson-county.json": {
+   "raw": 50,
+   "gzip": 69
+  },
+  "data/detail-custer-county.json": {
+   "raw": 2028,
+   "gzip": 725
+  },
+  "data/detail-davison-county.json": {
+   "raw": 2505,
+   "gzip": 809
+  },
+  "data/detail-day-county.json": {
+   "raw": 619,
+   "gzip": 270
+  },
+  "data/detail-deuel-county.json": {
+   "raw": 298,
+   "gzip": 175
+  },
+  "data/detail-dewey-county.json": {
+   "raw": 507,
+   "gzip": 245
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 167,
+   "gzip": 128
+  },
+  "data/detail-edmunds-county.json": {
+   "raw": 297,
+   "gzip": 169
+  },
+  "data/detail-fall-river-county.json": {
+   "raw": 1225,
+   "gzip": 461
+  },
+  "data/detail-faulk-county.json": {
+   "raw": 168,
+   "gzip": 125
+  },
+  "data/detail-grant-county.json": {
+   "raw": 817,
+   "gzip": 316
+  },
+  "data/detail-gregory-county.json": {
+   "raw": 411,
+   "gzip": 192
+  },
+  "data/detail-haakon-county.json": {
+   "raw": 144,
+   "gzip": 116
+  },
+  "data/detail-hamlin-county.json": {
+   "raw": 413,
+   "gzip": 201
+  },
+  "data/detail-hand-county.json": {
+   "raw": 409,
+   "gzip": 234
+  },
+  "data/detail-hanson-county.json": {
+   "raw": 77,
+   "gzip": 82
+  },
+  "data/detail-harding-county.json": {
+   "raw": 137,
+   "gzip": 97
+  },
+  "data/detail-hughes-county.json": {
+   "raw": 2361,
+   "gzip": 755
+  },
+  "data/detail-hutchinson-county.json": {
+   "raw": 533,
+   "gzip": 289
+  },
+  "data/detail-hyde-county.json": {
+   "raw": 50,
+   "gzip": 69
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 214,
+   "gzip": 145
+  },
+  "data/detail-jerauld-county.json": {
+   "raw": 201,
+   "gzip": 134
+  },
+  "data/detail-jones-county.json": {
+   "raw": 302,
+   "gzip": 181
+  },
+  "data/detail-kingsbury-county.json": {
+   "raw": 655,
+   "gzip": 290
+  },
+  "data/detail-lake-county.json": {
+   "raw": 1294,
+   "gzip": 521
+  },
+  "data/detail-lawrence-county.json": {
+   "raw": 5974,
+   "gzip": 1829
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 18835,
+   "gzip": 2781
+  },
+  "data/detail-lyman-county.json": {
+   "raw": 300,
+   "gzip": 186
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 255,
+   "gzip": 173
+  },
+  "data/detail-mccook-county.json": {
+   "raw": 263,
+   "gzip": 155
+  },
+  "data/detail-mcpherson-county.json": {
+   "raw": 200,
+   "gzip": 150
+  },
+  "data/detail-meade-county.json": {
+   "raw": 2514,
+   "gzip": 840
+  },
+  "data/detail-mellette-county.json": {
+   "raw": 116,
+   "gzip": 112
+  },
+  "data/detail-miner-county.json": {
+   "raw": 235,
+   "gzip": 155
+  },
+  "data/detail-minnehaha-county.json": {
+   "raw": 127942,
+   "gzip": 12703
+  },
+  "data/detail-moody-county.json": {
+   "raw": 486,
+   "gzip": 239
+  },
+  "data/detail-oglala-lakota-county.json": {
+   "raw": 425,
+   "gzip": 225
+  },
+  "data/detail-pennington-county.json": {
+   "raw": 19694,
+   "gzip": 4993
+  },
+  "data/detail-perkins-county.json": {
+   "raw": 166,
+   "gzip": 100
+  },
+  "data/detail-potter-county.json": {
+   "raw": 201,
+   "gzip": 134
+  },
+  "data/detail-roberts-county.json": {
+   "raw": 981,
+   "gzip": 392
+  },
+  "data/detail-sanborn-county.json": {
+   "raw": 189,
+   "gzip": 113
+  },
+  "data/detail-spink-county.json": {
+   "raw": 478,
+   "gzip": 226
+  },
+  "data/detail-stanley-county.json": {
+   "raw": 542,
+   "gzip": 271
+  },
+  "data/detail-sully-county.json": {
+   "raw": 50,
+   "gzip": 67
+  },
+  "data/detail-todd-county.json": {
+   "raw": 109,
+   "gzip": 108
+  },
+  "data/detail-tripp-county.json": {
+   "raw": 754,
+   "gzip": 329
+  },
+  "data/detail-turner-county.json": {
+   "raw": 632,
+   "gzip": 260
+  },
+  "data/detail-union-county.json": {
+   "raw": 1464,
+   "gzip": 540
+  },
+  "data/detail-walworth-county.json": {
+   "raw": 631,
+   "gzip": 246
+  },
+  "data/detail-yankton-county.json": {
+   "raw": 2370,
+   "gzip": 754
+  },
+  "data/ids.json": {
+   "raw": 27744,
+   "gzip": 16353
+  },
+  "data/sd_shapes.json": {
+   "raw": 40303,
+   "gzip": 8912
+  }
+ }
+}
