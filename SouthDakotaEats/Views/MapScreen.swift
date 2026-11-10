@@ -175,9 +175,9 @@ struct ClusteredMap: UIViewRepresentable {
         map.pointOfInterestFilter = .excludingAll
         map.register(PlaceMarker.self, forAnnotationViewWithReuseIdentifier: PlaceMarker.id)
         map.register(ClusterMarker.self, forAnnotationViewWithReuseIdentifier: MKMapViewDefaultClusterAnnotationViewReuseIdentifier)
-        // the whole state, the Eastern Shore to Cumberland Gap and the Potomac to the Carolina line (Michigan's map once opened over Texas: set per state)
-        map.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 46.35, longitude: -94.30),
-                                         span: MKCoordinateSpan(latitudeDelta: 6.4, longitudeDelta: 8.6)), animated: false)
+        // the whole state, the Black Hills to Sioux Falls (set per state: a copied region opens the map over another state)
+        map.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 44.21, longitude: -100.25),
+                                         span: MKCoordinateSpan(latitudeDelta: 3.9, longitudeDelta: 8.5)), animated: false)
         let start = map.region
         DispatchQueue.main.async { onRegion(start) }
         return map
